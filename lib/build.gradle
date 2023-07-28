@@ -39,4 +39,6 @@ android {
 
 dependencies {
     embed 'com.bokecc:CCStreamPlayerLib:1.3.0'
+    embed 'com.bokecc:ClassBaseLib:6.26.0'
+    embed 'com.bokecc:VrPlayLib:2.5.0'
 }
